@@ -1,0 +1,124 @@
+body {
+  /* background-color: black; */
+  background-image: url(https://i.ytimg.com/vi/tUjAayPQlb0/maxresdefault.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+
+}
+.nav {
+  text-shadow: 9px 7px 10px blueviolet;
+  color: seashell;
+  margin-left: 20px;
+}
+.nav div,
+.nav div h1 {
+  display: inline;
+  padding: 10px;
+  margin-left: 5.5px;
+}
+a {
+  text-decoration: none;
+  color: paleturquoise;
+  text-shadow: 10px 10px 10px white;
+}
+pre {
+  margin-top: 200px;
+  font-size: xx-large;
+  font-weight: bold;
+  text-shadow: 12px 12px 12px olivedrab;
+  font-style: normal;
+}
+input {
+  border-style: solid;
+  width: 100px;
+  height: 50px;
+  background-color: orangered;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  margin-left: 25px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+#a1 {
+  border-style: solid;
+  width: 150px;
+  height: 25px;
+  text-align: center;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  color: white;
+  background-color: orangered;
+  font-weight: bold;
+  text-shadow: none;
+  border-color: orangered;
+  box-shadow: 1px 3px 5px grey;
+  margin-top: 30px;
+  top: 30px;
+}
+img {
+  border-style: solid;
+  margin-left: 950px;
+  margin-top: -1550px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-top-left-radius: 100px;
+  border-top-right-radius: 100px;
+  box-shadow: 5px 5px 3px white, 1px 5px 3px red, 10px 10px 30px blue,
+    1px 4px 3px green, 10px 10px 30px yellow;
+  height: 300px;
+}
+#s1{
+    background-color: bisque;
+    text-align: center;
+    font-size: xx-large;
+
+    /* width: 2000px; */
+}
+#ex{
+    background-color: gray;
+    text-align: center;
+    font-size: xx-large;
+    opacity: 0,2;
+    /* position:absolute; */
+    
+    
+}
+::-webkit-scrollbar{
+    display:block;
+}
+#ed{
+    background-color:azure;
+    text-align: center;
+    font-size: xx-large;
+}
+#sk{
+    background-color: darkkhaki;
+    font-size: xx-large;
+    text-align: center;
+}
+#cc{
+    background-color:darkgray;
+    font-size: xx-large;
+    text-align: center;
+}
+#hh{
+    background-color:yellow;
+    font-size: xx-large;
+    text-align: center;
+
+}
+footer{
+    background-color: black;
+    color: white;
+}
+
+
+
